@@ -15,7 +15,7 @@
     <div class="flex flex-col items-center justify-center gap-8">
         <p class="font-roboto text-7xl font-bold text-white cursor-default">Weather App</p>
         <p class="text-center font-roboto text-sm text-white cursor-default">Dibuat untuk memenuhi tugas pemrograman iot<br/>Muhammad Nabil Athillah - 152021076</p>
-        <a href="/Dashboard" class="text-xl font-semibold px-6 py-3 rounded-full border-2 border-white text-white shadow-xl bg-blue-400 hover:bg-white hover:text-blue-400 transition-all">Mulai Sekarang</a>
+        <a href="/dashboard" class="text-xl font-semibold px-6 py-3 rounded-full border-2 border-white text-white shadow-xl bg-blue-400 hover:bg-white hover:text-blue-400 transition-all">Mulai Sekarang</a>
     </div>
 </body>
 </html>
